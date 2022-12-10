@@ -4,6 +4,7 @@
 
 html {
   background-color: #0A192F !important;
+  scroll-behavior: smooth;
 }
 
 body {
