@@ -1,0 +1,12 @@
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.about_content {
+    flex-basis: 70%;
+}
+.about_content p {
+    font-size: 20px;
+    
+}

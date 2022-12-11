@@ -19,7 +19,7 @@ const Projects = () => {
                     <p className="text-2xl">Car reselling website</p>
                     <div className="project_btn">
                         <a target='_blank' rel='noreferrer' href="https://auto-plus-fc1d8.web.app/"><button>View Project</button></a>
-                        <button>View Details</button>
+                        <Link to='/project/1'><button>View Details</button></Link>
                     </div>
                 </div>
                 <div className="project_cart">
@@ -28,7 +28,7 @@ const Projects = () => {
                     <p className="text-2xl">Photographer Portfolio</p>
                     <div className="project_btn">
                         <a target='_blank' rel='noreferrer' href="https://meta-zone.web.app/"><button>View Project</button></a>
-                        <button>View Details</button>
+                        <Link to='/project/2'><button>View Details</button></Link>
                     </div>
                 </div>
                 <div className="project_cart">
@@ -37,7 +37,7 @@ const Projects = () => {
                     <p className="text-2xl">Online Academy</p>
                     <div className="project_btn">
                         <a target='_blank' rel='noreferrer' href="https://e-academy-e31d2.web.app/"><button>View Project</button></a>
-                        <button>View Details</button>
+                        <Link to='/project/3'><button>View Details</button></Link>
                     </div>
                 </div>
             </div>

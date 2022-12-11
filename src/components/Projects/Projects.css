@@ -42,3 +42,28 @@
     transform: scale(1);
     opacity: 1;
 }
+
+/* product details */
+.product_details .title {
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.project_image-container img {
+    height: 400px;
+    object-fit: cover;
+    object-position: top;
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(236, 231, 231, 0.247);
+}
+.project_btn-details button {
+    padding: 8px 20px;
+    border: 1px solid #aaa;
+    color: orange;
+    font-weight: bold;
+    margin-right: 6px;
+}
+.project_btn-details button:hover {
+    background-color: rgba(236, 231, 231, 0.247);
+}
