@@ -4,8 +4,8 @@ import Profile from '../../assets/images/my-image.jpg'
 
 const Navbar = () => {
     const menuItems = <>
-        <li><a href='#works'>Works</a></li>
-        <li><a href='#contact'>Contact Me</a></li>
+        <li><a href='/#works'>Works</a></li>
+        <li><a href='/#contact'>Contact Me</a></li>
     </>
 
     return (

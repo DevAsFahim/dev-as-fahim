@@ -1,0 +1,11 @@
+.footers {
+    border-top: 1px solid #aaa;
+}
+.footers .icon {
+    font-size: 30px;
+    cursor: pointer;
+    transition: .4s;
+}
+.footers .icon:hover {
+    transform: translateY(-7px);
+}
