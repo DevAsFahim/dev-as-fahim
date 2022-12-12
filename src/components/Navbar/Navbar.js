@@ -25,7 +25,7 @@ const Navbar = () => {
                             <img src={Profile} alt='' />
                         </div>
                     </div>
-                    <Link className="btn btn-ghost normal-case text-xl">DevAsFahim</Link>
+                    <Link to='/' className="btn btn-ghost normal-case text-xl">DevAsFahim</Link>
                 </div>
                 <div className="navbar-end hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
